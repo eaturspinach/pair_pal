@@ -9,5 +9,5 @@ insecure
 preserve-inputs
 accounts-ui
 accounts-twitter
-bootstrap
 less
+foundation
