@@ -1,0 +1,65 @@
+{
+  "format": "browser-program-pre1",
+  "page": "app.html",
+  "manifest": [
+    {
+      "path": "fcbecdeddfef7537b492db1962d1d1dfabc45164.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/fcbecdeddfef7537b492db1962d1d1dfabc45164.js",
+      "size": 347199,
+      "hash": "fcbecdeddfef7537b492db1962d1d1dfabc45164"
+    },
+    {
+      "path": "83413ad4143b7d6846bd8d58eb9ad48f58f8f183.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/83413ad4143b7d6846bd8d58eb9ad48f58f8f183.css",
+      "size": 132345,
+      "hash": "83413ad4143b7d6846bd8d58eb9ad48f58f8f183"
+    },
+    {
+      "path": "packages/bootstrap/img/glyphicons-halflings.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bootstrap/img/glyphicons-halflings.png",
+      "size": 12799,
+      "hash": "84f613631b07d4fe22acbab50e551c0fe04bd78b"
+    },
+    {
+      "path": "packages/bootstrap/img/glyphicons-halflings-white.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bootstrap/img/glyphicons-halflings-white.png",
+      "size": 8777,
+      "hash": "a25c4705320fd63c33790e666872910e702b9bf6"
+    },
+    {
+      "path": "app/person1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/person1.jpg",
+      "size": 12875,
+      "hash": "1799b464e165e1c1da82094cebf390b9761ad58b"
+    },
+    {
+      "path": "app/person2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/person2.jpg",
+      "size": 20324,
+      "hash": "71158eedf5506455282fcd87ac320cfa388bb6aa"
+    },
+    {
+      "path": "app.html",
+      "where": "internal",
+      "hash": "2f6f160cc6276dea552d536db70ea7860da9c931"
+    }
+  ]
+}
