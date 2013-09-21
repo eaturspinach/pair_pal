@@ -13,6 +13,12 @@
 					<li>{{loginButtons}}</li>
 				</ul>
 			</div>
+ 			{{#if currentUser }}
+ 				oh hai
+				{{currentUser.profile.name }}
+			{{ else }}
+				nope
+			{{/if}}
 		</div>
 	</header>
 </template>
